@@ -76,6 +76,5 @@ Place your tender PDFs in `/input_tenders/` before running. Outputs will be gene
 
 ## Author
 ANAND
-
 IIT KANPUR
 ---
