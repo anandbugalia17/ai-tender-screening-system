@@ -75,6 +75,6 @@ python process_tenders.py
 Place your tender PDFs in `/input_tenders/` before running. Outputs will be generated in `/output_reports/`.
 
 ## Author
-ANAND
+ANAND<br>
 IIT KANPUR
 ---
