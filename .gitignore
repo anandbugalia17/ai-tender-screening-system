@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+input_tenders/*.pdf
+output_reports/*.xlsx
+output_reports/*.docx
+!input_tenders/.gitkeep
+!output_reports/.gitkeep
+venv/
+.venv/
